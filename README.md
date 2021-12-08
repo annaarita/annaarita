@@ -1,5 +1,5 @@
-- Hi, I’m @annaarita
-- I’m interested in coding discord appis and mobile apps.
+- Hi, I’m Anna Arita, a 3rd year animation student.
+- I’m interested in coding discord appis and mobile apps. Also, I'm specialized in blender and unity.
 - I’m currently learning php and mysql.
 - I’m looking to collaborate on anything I can help on.
 - Reach me on Discord: AnnaArita#1927
